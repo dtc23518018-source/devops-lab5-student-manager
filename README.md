@@ -2,4 +2,4 @@
 
 Version 1.0.0
 
-Phat trien boi Nhom B
+Phat trien boi Nhom A & Nhom B
